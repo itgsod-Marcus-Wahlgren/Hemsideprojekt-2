@@ -1,0 +1,47 @@
+body {
+
+
+
+
+}
+
+#Logo {
+
+    float:right;
+    margin-right: -1%;
+}
+#Meny {
+    background-color: darkgrey;
+    height: 70px;
+    width: 102%;
+    margin-left: -1%;
+    border-style:solid;
+
+
+}
+#Hem {
+    float:left;
+    margin-top: 2%;
+    margin-left: 5%;
+
+}
+#Uppgift {
+    float:left;
+    margin-top: 2%;
+    margin-left: 5%;
+
+}
+#Inlamningsmapp {
+    float:left;
+    margin-top: 2%;
+    margin-left: 5%;
+
+}
+#Schema {
+    float:left;
+    margin-top: 2%;
+    margin-left: 5%;
+
+}
+#menytext {
+    margin-left: 10%;
