@@ -45,3 +45,34 @@ body {
 }
 #menytext {
     margin-left: 10%;
+}
+#Engelska {
+    Float:left;
+    margin-left:5%;
+
+
+}
+#Idrott {
+    Float:left;
+    margin-left:5%;
+
+}
+#Teknik {
+    Float:left;
+    margin-left:5%;
+
+}
+#Svenska {
+    Float:left;
+    margin-left:5%;
+
+}
+#Mattematik {
+    Float:left;
+    margin-left:5%;
+
+}
+#subject1 {
+
+
+}
