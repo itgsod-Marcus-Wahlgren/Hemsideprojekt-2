@@ -1,4 +1,5 @@
 body {
+   background-color:lightblue;
 
 
 
@@ -73,6 +74,67 @@ body {
 
 }
 #subject1 {
+    float:left;
+    margin-left: 5%;
 
 
+
+}
+#subject2 {
+    float:left;
+    margin-left: 4%;
+
+
+}
+#subject3 {
+    float:left;
+    margin-left: 5%;
+
+
+}
+#subject4 {
+    float:left;
+    margin-left: 5%;
+
+
+}
+#subject5 {
+    float:left;
+    margin-left: 3%;
+
+
+
+
+
+
+}
+#beskrivning1 {
+    float:left;
+    margin-left: 6%;
+    border:solid;
+    width: 8%;
+}
+#beskrivning2 {
+    float:left;
+    margin-left: 5%;
+    border:solid;
+    width: 8%;
+}
+#beskrivning3 {
+    float:left;
+    margin-left: 7%;
+    border:solid;
+    width: 8%;
+}
+#beskrivning4 {
+    float:left;
+    margin-left: 7%;
+    border:solid;
+    width: 8%;
+}
+#beskrivning5 {
+    float:left;
+    margin-left: 5%;
+    border:solid;
+    width: 8%;
 }
