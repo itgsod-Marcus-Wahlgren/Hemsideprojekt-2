@@ -49,5 +49,36 @@ body {
 
 #mapp {
     float:left;
+    margin-top: 1.25%;
+    font-size: 25px;
+
+}
+#mapptext {
+    float:left;
+
+}
+#pekare {
+    float:left;
+    margin-top:-2%;
+
+}
+#mapptext1 {
+    float:left;
+
+}
+#mapp1 {
+    float:right;
+    margin-top: 1%;
+    font-size: 25px;
+    margin-right:84.7%;
+
+
+}
+#pekare1 {
+    float:left;
+    margin-top: -5%;
+    margin-left: 15.5%;
+
+
 
 }
