@@ -45,3 +45,18 @@ body {
 }
 #menytext {
     margin-left: 10%;
+}
+#Schemaborder {
+ border:solid;
+    height: 500px;
+    width: 76.5%;
+    float:left;
+
+
+}
+#vecka {
+    float:left;
+    margin-top: 1%;
+    margin-left: 1%;
+
+}
