@@ -2,7 +2,6 @@ body {
 
 
 
-
 }
 
 #Logo {
@@ -80,5 +79,12 @@ body {
     margin-left: 15.5%;
 
 
+
+}
+#Subject {
+    float:left;
+    margin-top: 2%;
+    margin-left: 2%;
+    font-size: 30px;
 
 }
