@@ -1,5 +1,5 @@
 body {
-   background-color:lightblue;
+
 
 
 
@@ -50,6 +50,7 @@ body {
 #Engelska {
     Float:left;
     margin-left:5%;
+
 
 
 }
@@ -103,11 +104,8 @@ body {
     margin-left: 3%;
 
 
-
-
-
-
 }
+
 #beskrivning1 {
     float:left;
     margin-left: 6%;
@@ -116,25 +114,41 @@ body {
 }
 #beskrivning2 {
     float:left;
-    margin-left: 5%;
+    margin-left: 10%;
     border:solid;
     width: 8%;
 }
 #beskrivning3 {
     float:left;
-    margin-left: 7%;
+    margin-left: 10%;
     border:solid;
     width: 8%;
 }
 #beskrivning4 {
     float:left;
-    margin-left: 7%;
+    margin-left: 10%;
     border:solid;
     width: 8%;
 }
 #beskrivning5 {
     float:left;
-    margin-left: 5%;
+    margin-left: 8%;
     border:solid;
     width: 8%;
+}
+#Uppgiftbackground {
+    background-color: lightblue;
+    width:75%;
+    height:100%;
+    border:solid;
+    float:left;
+
+}
+#Uppgifttext {
+    float:left;
+    margin-left: 10%;
+
+    border:solid;
+    margin-bottom:.2%;
+
 }
