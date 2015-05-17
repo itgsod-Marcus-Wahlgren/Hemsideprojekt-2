@@ -1,5 +1,5 @@
 body {
-
+    background-color: #06799F;
 
 
 }
@@ -10,7 +10,7 @@ body {
     margin-right: -1%;
 }
 #Meny {
-    background-color: darkgrey;
+    background-color: #62B1D0;
     height: 70px;
     width: 102%;
     margin-left: -1%;
@@ -61,7 +61,7 @@ body {
 
 }
 #Schemameny {
-    background-color: lightblue;
+    background-color: #61B4CF;
     width:100%;
     height: 10%;
 
@@ -94,7 +94,7 @@ th,td {
     border-collapse: collapse;
     outline: 1px solid #e3e3e3;
     padding: 5px 10px;
-    background-color:
+    background-color: #61B4CF;
 }
 
 
