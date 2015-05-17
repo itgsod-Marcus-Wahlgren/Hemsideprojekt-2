@@ -1,6 +1,6 @@
 body {
 
-
+background-color: #06799F;
 
 
 }
@@ -11,7 +11,7 @@ body {
     margin-right: -1%;
 }
 #Meny {
-    background-color: darkgrey;
+    background-color: #62B1D0;
     height: 70px;
     width: 102%;
     margin-left: -1%;
@@ -63,7 +63,7 @@ body {
     float:left;
     margin-left:1%;
     margin-top: 1%;
-    background-color: lightblue;
+    background-color: #61B4CF;
 
 
 
@@ -78,7 +78,7 @@ body {
     float:left;
     margin-left:1%;
     margin-top: 5%;
-    background-color: lightblue;
+    background-color: #61B4CF;
 
 
 
