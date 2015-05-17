@@ -1,6 +1,6 @@
 body {
 
-
+    background-color: #06799F;
 
 }
 
@@ -10,7 +10,7 @@ body {
     margin-right: -1%;
 }
 #Meny {
-    background-color: darkgrey;
+    background-color: #62B1D0;
     height: 70px;
     width: 102%;
     margin-left: -1%;
@@ -48,12 +48,30 @@ body {
 
 #mapp {
     float:left;
-    margin-top: 1.25%;
-    font-size: 25px;
+    margin-top: -1%;
+    background-color:#61B4CF;
+    border-radius:20px;
+    border:1px solid #18ab29;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Arial;
+    font-size:17px;
+    padding:16px 31px;
+    text-decoration:none;
+    text-shadow:0px 1px 0px #2f6627;
+}
+
+.myButton:active {
+    position:relative;
+    top:1px;
+}
+
 
 }
 #mapptext {
     float:left;
+
 
 }
 #pekare {
@@ -63,13 +81,32 @@ body {
 }
 #mapptext1 {
     float:left;
+    margin-top:3%;
+    margin-right: 5%;
 
 }
 #mapp1 {
     float:right;
     margin-top: 1%;
-    font-size: 25px;
-    margin-right:84.7%;
+    margin-right:86%;
+    background-color:#61B4CF;
+    border-radius:20px;
+    border:1px solid #18ab29;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Arial;
+    font-size:17px;
+    padding:16px 31px;
+    text-decoration:none;
+    text-shadow:0px 1px 0px #2f6627;
+}
+
+.myButton:active {
+    position:relative;
+    top:1px;
+}
+
 
 
 }
@@ -83,7 +120,7 @@ body {
 }
 #Subject {
     float:left;
-    margin-top: 2%;
+
     margin-left: 2%;
     font-size: 30px;
 
